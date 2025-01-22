@@ -1,5 +1,5 @@
 //  bubble short question :
-// public class practice {
+// public class practice1 {
 //     public static void printArray(int arr[]) {
 //         for (int i = 0; i < arr.length; i++) {
 //             System.out.println(arr[i] + " ");
