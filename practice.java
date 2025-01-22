@@ -22,6 +22,7 @@
 //         printArray(arr);
 //     }
 // }
+Question 1:
 public class practice {
 
     public static void printArray(int arr[]) {
