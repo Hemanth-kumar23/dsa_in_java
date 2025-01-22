@@ -1,4 +1,4 @@
-
+//  bubble short question :
 // public class practice {
 //     public static void printArray(int arr[]) {
 //         for (int i = 0; i < arr.length; i++) {
@@ -22,8 +22,9 @@
 //         printArray(arr);
 //     }
 // }
-Question 1:
-public class practice {
+
+// Question 1:
+public class practice1 {
 
     public static void printArray(int arr[]) {
         for (int i = 0; i < arr.length; i++) {
@@ -33,7 +34,6 @@ public class practice {
     }
 
     public static void main(String[] args) {
-
         int arr[] = {5, 2, 9, 1, 5, 6};
         // bubble short 
         for (int i = 0; i < arr.length - 1; i++) {
@@ -44,9 +44,7 @@ public class practice {
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
                 }
-
             }
-
         }
         printArray(arr);
     }
